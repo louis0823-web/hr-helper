@@ -1,0 +1,9 @@
+{
+  "name": "HR Lucky Draw & Team Builder",
+  "description": "專為 HR 與活動策劃設計的活動神器：支援 CSV/姓名名單匯入、多輪獎品抽籤（可重複/不重複）、自訂名額與緊張刺激的動態抽籤動畫，以及視覺化團隊自動分組。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
